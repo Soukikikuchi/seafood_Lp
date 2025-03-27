@@ -583,6 +583,10 @@ button {
     margin-top: var(--spacing-xl);
 }
 
+.subscription{
+    padding: var(--spacing-3xl) 0;
+    
+}
 /* ===== フッター ===== */
 .footer {
     padding: var(--spacing-3xl) 0 var(--spacing-xl);
